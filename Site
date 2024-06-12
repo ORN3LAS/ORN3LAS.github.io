@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Gratuito de Excel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .about, .course, .contact {
+            margin-bottom: 40px;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Curso Gratuito de Excel</h1>
+    </header>
+    <div class="container">
+        <section class="about">
+            <h2>Sobre Mim</h2>
+            <p>Olá! Meu nome é [Matheus Ornelas], e eu sou um amante em Excel com de experiência no mercado. Tenho ajudado muitas pessoas a dominar o Excel para melhorar suas habilidades e eficiência no trabalho.</p>
+        </section>
+        <section class="course">
+            <h2>Sobre o Curso</h2>
+            <p>O curso gratuito de Excel é projetado para iniciantes e intermediários que desejam aprimorar suas habilidades. Você aprenderá desde o básico até técnicas avançadas de forma prática e objetiva.</p>
+            <p><strong>Data:</strong> [03 de Julho]</p>
+            <p><strong>Horário:</strong> [Às 18h30 na UNEB]</p>
+            <p><strong>Inscrição:</strong> Para se inscrever, clique no link abaixo e preencha o formulário.</p>
+            <p><a href="[Aguarde]" style="color: #4CAF50;">Formulário de Inscrição</a></p>
+        </section>
+        <section class="contact">
+            <h2>Contato</h2>
+            <p>Se você tiver alguma dúvida ou precisar de mais informações, sinta-se à vontade para me contatar através das redes sociais abaixo:</p>
+            <div class="social-links">
+                <a href="[Link do Instagram]" target="_blank">Instagram</a>
+                <a href="[Link do WhatsApp]" target="_blank">WhatsApp</a>
+                <a href="[Link do Linktree]" target="_blank">Linktree</a>
+            </div>
+        </section>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 [Seu Nome]. Todos os direitos reservados.</p>
+    </div>
+</body>
+</html>
